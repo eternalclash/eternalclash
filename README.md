@@ -1,7 +1,7 @@
 <div align = 'center'>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=SuchangLee&fontSize=90)
- 
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eternalclash97">
   <p>Welcome</p>
   <p>Technology Stack</p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
