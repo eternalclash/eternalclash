@@ -1,0 +1,16 @@
+{
+  "name": "tistory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readmeUpdate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node readmeUpdate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parser": "^0.1.4",
+    "rss-parser": "^3.12.0"
+  }
+}
