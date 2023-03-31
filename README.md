@@ -28,4 +28,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/33>2. 메모리 관리</a></br><a href=https://eternalclash97.tistory.com/32>1.운영체제 기초 활용</a></br><a href=https://eternalclash97.tistory.com/31>프로그래머스 LV2 방문길이</a></br><a href=https://eternalclash97.tistory.com/30>프로세스와 스레드</a></br><a href=https://eternalclash97.tistory.com/29>프로그래머스 LV2 땅따먹기</a></br>
+<a href=https://eternalclash97.tistory.com/34>3. 프로세스 스케줄링</a></br><a href=https://eternalclash97.tistory.com/33>2. 메모리 관리</a></br><a href=https://eternalclash97.tistory.com/32>1.운영체제 기초 활용</a></br><a href=https://eternalclash97.tistory.com/31>프로그래머스 LV2 방문길이</a></br><a href=https://eternalclash97.tistory.com/30>프로세스와 스레드</a></br>
