@@ -21,8 +21,11 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=eternalclash&theme=react&ring=C691E94D&fire=C691E9&sideNums=C691E9&currStreakNum=C691E9&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=E3E3E3A8&hide_border=true" width=49.2% />
 </a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=eternalclash&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
+</a>
   </div>
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/34>3. 프로세스 스케줄링</a></br><a href=https://eternalclash97.tistory.com/33>2. 메모리 관리</a></br><a href=https://eternalclash97.tistory.com/32>1.운영체제 기초 활용</a></br><a href=https://eternalclash97.tistory.com/31>프로그래머스 LV2 방문길이</a></br><a href=https://eternalclash97.tistory.com/30>프로세스와 스레드</a></br>
+<a href=https://eternalclash97.tistory.com/35>프로그래머스 LV2 괄호 회전하기</a></br><a href=https://eternalclash97.tistory.com/34>3. 프로세스 스케줄링</a></br><a href=https://eternalclash97.tistory.com/33>2. 메모리 관리</a></br><a href=https://eternalclash97.tistory.com/32>1.운영체제 기초 활용</a></br><a href=https://eternalclash97.tistory.com/31>프로그래머스 LV2 방문길이</a></br>
