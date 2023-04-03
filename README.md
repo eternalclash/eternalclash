@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/37>1. 인터넷 구성의 개념</a></br><a href=https://eternalclash97.tistory.com/36>프로그래머스 LV2 피보나치 수</a></br><a href=https://eternalclash97.tistory.com/35>프로그래머스 LV2 괄호 회전하기</a></br><a href=https://eternalclash97.tistory.com/34>3. 프로세스 스케줄링</a></br><a href=https://eternalclash97.tistory.com/33>2. 메모리 관리</a></br>
+<a href=https://eternalclash97.tistory.com/38>2. IP(Internet Protocol)</a></br><a href=https://eternalclash97.tistory.com/37>1. 인터넷 구성의 개념</a></br><a href=https://eternalclash97.tistory.com/36>프로그래머스 LV2 피보나치 수</a></br><a href=https://eternalclash97.tistory.com/35>프로그래머스 LV2 괄호 회전하기</a></br><a href=https://eternalclash97.tistory.com/34>3. 프로세스 스케줄링</a></br>
