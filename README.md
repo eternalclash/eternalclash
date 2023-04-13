@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/42>프로그래머스 LV2 질문목록</a></br><a href=https://eternalclash97.tistory.com/41>프로그래머스 LV2 프렌즈블록</a></br><a href=https://eternalclash97.tistory.com/40>프로그래머스 LV2 파일명 정렬(카카오)</a></br><a href=https://eternalclash97.tistory.com/39>TCP/IP 4계층</a></br><a href=https://eternalclash97.tistory.com/38>2. IP(Internet Protocol)</a></br>
+<a href=https://eternalclash97.tistory.com/45>프로그래머스 LV2 소수찾기</a></br><a href=https://eternalclash97.tistory.com/44>프로그래머스 LV2 큰 수 만들기</a></br><a href=https://eternalclash97.tistory.com/43>프로그래머스 LV2 2 x n 타일링</a></br><a href=https://eternalclash97.tistory.com/42>프로그래머스 LV2 질문목록</a></br><a href=https://eternalclash97.tistory.com/41>프로그래머스 LV2 프렌즈블록</a></br>
