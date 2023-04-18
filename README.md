@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/47>프로그래머스 LV2 질문목록</a></br><a href=https://eternalclash97.tistory.com/46>프로그래머스 LV2 삼각 달팽이</a></br><a href=https://eternalclash97.tistory.com/45>프로그래머스 LV2 소수찾기</a></br><a href=https://eternalclash97.tistory.com/44>프로그래머스 LV2 큰 수 만들기</a></br><a href=https://eternalclash97.tistory.com/43>프로그래머스 LV2 2 x n 타일링</a></br>
+<a href=https://eternalclash97.tistory.com/50>정규화과정</a></br><a href=https://eternalclash97.tistory.com/49>ERD와 정규화 과정</a></br><a href=https://eternalclash97.tistory.com/48>프로그래머스 LV2 연속된 부분의 수열의 합</a></br><a href=https://eternalclash97.tistory.com/47>프로그래머스 LV2 질문목록</a></br><a href=https://eternalclash97.tistory.com/46>프로그래머스 LV2 삼각 달팽이</a></br>
