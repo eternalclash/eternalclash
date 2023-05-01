@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/51>트랜잭션</a></br><a href=https://eternalclash97.tistory.com/50>정규화과정</a></br><a href=https://eternalclash97.tistory.com/49>ERD와 정규화 과정</a></br><a href=https://eternalclash97.tistory.com/48>프로그래머스 LV2 연속된 부분의 수열의 합</a></br><a href=https://eternalclash97.tistory.com/47>프로그래머스 LV2 질문목록</a></br>
+<a href=https://eternalclash97.tistory.com/52>서버프로그램 구현</a></br><a href=https://eternalclash97.tistory.com/51>트랜잭션</a></br><a href=https://eternalclash97.tistory.com/50>정규화과정</a></br><a href=https://eternalclash97.tistory.com/49>ERD와 정규화 과정</a></br><a href=https://eternalclash97.tistory.com/48>프로그래머스 LV2 연속된 부분의 수열의 합</a></br>
