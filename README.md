@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/57>5-1 소프트웨어 개발방법론 활용</a></br><a href=https://eternalclash97.tistory.com/56>4-3 응용 SW 기초 기술 활용(운영체제)</a></br><a href=https://eternalclash97.tistory.com/55>4-2 프로그래밍 언어 활용</a></br><a href=https://eternalclash97.tistory.com/54>4-1 서버프로그램 구현</a></br><a href=https://eternalclash97.tistory.com/53>4-3 응용 SW 기초 기술 활용(네트워크)</a></br>
+<a href=https://eternalclash97.tistory.com/61>1-1 요구사항 확인</a></br><a href=https://eternalclash97.tistory.com/60>5-4 시스템 보안 구축</a></br><a href=https://eternalclash97.tistory.com/59>5-3 소프트웨어 개발 보안 구축</a></br><a href=https://eternalclash97.tistory.com/58>5-2 IT프로젝트 정보시스템 구축관리</a></br><a href=https://eternalclash97.tistory.com/57>5-1 소프트웨어 개발방법론 활용</a></br>
