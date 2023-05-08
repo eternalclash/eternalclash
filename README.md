@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/63>1-4 인터페이스 설계</a></br><a href=https://eternalclash97.tistory.com/62>1-3 애플리케이션 설계</a></br><a href=https://eternalclash97.tistory.com/61>1-1 요구사항 확인</a></br><a href=https://eternalclash97.tistory.com/60>5-4 시스템 보안 구축</a></br><a href=https://eternalclash97.tistory.com/59>5-3 소프트웨어 개발 보안 구축</a></br>
+<a href=https://eternalclash97.tistory.com/65>2-2 통합 구현</a></br><a href=https://eternalclash97.tistory.com/64>2-1 데이터 입출력 구현</a></br><a href=https://eternalclash97.tistory.com/63>1-4 인터페이스 설계</a></br><a href=https://eternalclash97.tistory.com/62>1-3 애플리케이션 설계</a></br><a href=https://eternalclash97.tistory.com/61>1-1 요구사항 확인</a></br>
