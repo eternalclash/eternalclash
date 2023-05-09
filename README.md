@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/66>2-3 제품 소프트웨어 패키징</a></br><a href=https://eternalclash97.tistory.com/65>2-2 통합 구현</a></br><a href=https://eternalclash97.tistory.com/64>2-1 데이터 입출력 구현</a></br><a href=https://eternalclash97.tistory.com/63>1-4 인터페이스 설계</a></br><a href=https://eternalclash97.tistory.com/62>1-3 애플리케이션 설계</a></br>
+<a href=https://eternalclash97.tistory.com/67>2단원 문제풀이</a></br><a href=https://eternalclash97.tistory.com/66>2-3 제품 소프트웨어 패키징</a></br><a href=https://eternalclash97.tistory.com/65>2-2 통합 구현</a></br><a href=https://eternalclash97.tistory.com/64>2-1 데이터 입출력 구현</a></br><a href=https://eternalclash97.tistory.com/63>1-4 인터페이스 설계</a></br>
