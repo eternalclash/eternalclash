@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/69>3-1 SQL 응용</a></br><a href=https://eternalclash97.tistory.com/68>1단원 기출 정리</a></br><a href=https://eternalclash97.tistory.com/67>2단원 문제풀이</a></br><a href=https://eternalclash97.tistory.com/66>2-3 제품 소프트웨어 패키징</a></br><a href=https://eternalclash97.tistory.com/65>2-2 통합 구현</a></br>
+<a href=https://eternalclash97.tistory.com/71>3단원 기출</a></br><a href=https://eternalclash97.tistory.com/70>3단원 기출</a></br><a href=https://eternalclash97.tistory.com/69>3-1 SQL 응용</a></br><a href=https://eternalclash97.tistory.com/68>1단원 기출 정리</a></br><a href=https://eternalclash97.tistory.com/67>2단원 문제풀이</a></br>
