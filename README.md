@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/73>SELECT 문</a></br><a href=https://eternalclash97.tistory.com/72>5월 30일 알고리즘 연습</a></br><a href=https://eternalclash97.tistory.com/71>3단원 기출</a></br><a href=https://eternalclash97.tistory.com/70>3단원 기출</a></br><a href=https://eternalclash97.tistory.com/69>3-1 SQL 응용</a></br>
+<a href=https://eternalclash97.tistory.com/76>자바 중첩 반복문 벗어나기</a></br><a href=https://eternalclash97.tistory.com/75>자바 변수형</a></br><a href=https://eternalclash97.tistory.com/74>자바 ch1</a></br><a href=https://eternalclash97.tistory.com/73>SELECT 문</a></br><a href=https://eternalclash97.tistory.com/72>5월 30일 알고리즘 연습</a></br>
