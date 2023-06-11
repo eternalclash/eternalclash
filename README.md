@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/76>자바 중첩 반복문 벗어나기</a></br><a href=https://eternalclash97.tistory.com/75>자바 변수형</a></br><a href=https://eternalclash97.tistory.com/74>자바 ch1</a></br><a href=https://eternalclash97.tistory.com/73>SELECT 문</a></br><a href=https://eternalclash97.tistory.com/72>5월 30일 알고리즘 연습</a></br>
+<a href=https://eternalclash97.tistory.com/79>mysql eer다이어그램 연동</a></br><a href=https://eternalclash97.tistory.com/78>my sql.server start 오류 발생시</a></br><a href=https://eternalclash97.tistory.com/77>mysql intelij 설치</a></br><a href=https://eternalclash97.tistory.com/76>자바 중첩 반복문 벗어나기</a></br><a href=https://eternalclash97.tistory.com/75>자바 변수형</a></br>
