@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/86>5. 인터페이스 구현</a></br><a href=https://eternalclash97.tistory.com/85>4장 통합구현</a></br><a href=https://eternalclash97.tistory.com/84>0709 복습</a></br><a href=https://eternalclash97.tistory.com/83>1 소프트웨어 개발 방법론 2. 사용자 인터페이스</a></br><a href=https://eternalclash97.tistory.com/82>실기 1</a></br>
+<a href=https://eternalclash97.tistory.com/88>8. 개발환경 구축</a></br><a href=https://eternalclash97.tistory.com/87>7. 데이터베이스 기본</a></br><a href=https://eternalclash97.tistory.com/86>5. 인터페이스 구현</a></br><a href=https://eternalclash97.tistory.com/85>4장 통합구현</a></br><a href=https://eternalclash97.tistory.com/84>0709 복습</a></br>
