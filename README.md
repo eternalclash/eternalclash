@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/88>8. 개발환경 구축</a></br><a href=https://eternalclash97.tistory.com/87>7. 데이터베이스 기본</a></br><a href=https://eternalclash97.tistory.com/86>5. 인터페이스 구현</a></br><a href=https://eternalclash97.tistory.com/85>4장 통합구현</a></br><a href=https://eternalclash97.tistory.com/84>0709 복습</a></br>
+<a href=https://eternalclash97.tistory.com/91>정처기 3</a></br><a href=https://eternalclash97.tistory.com/90>정처기2</a></br><a href=https://eternalclash97.tistory.com/89>정처기1</a></br><a href=https://eternalclash97.tistory.com/88>8. 개발환경 구축</a></br><a href=https://eternalclash97.tistory.com/87>7. 데이터베이스 기본</a></br>
