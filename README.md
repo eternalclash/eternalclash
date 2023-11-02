@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/96>프론트엔드 면접 질문</a></br><a href=https://eternalclash97.tistory.com/95>MySQL(IFNULL,WITH)</a></br><a href=https://eternalclash97.tistory.com/94>2023 현대모비스 알고리즘대회 에어컨</a></br><a href=https://eternalclash97.tistory.com/93>웹 3.0</a></br><a href=https://eternalclash97.tistory.com/92>개인키,공개키,개인키/공개키PKI, SSL</a></br>
+<a href=https://eternalclash97.tistory.com/97>SQL문제연습</a></br><a href=https://eternalclash97.tistory.com/96>프론트엔드 면접 질문</a></br><a href=https://eternalclash97.tistory.com/95>MySQL(IFNULL,WITH)</a></br><a href=https://eternalclash97.tistory.com/94>2023 현대모비스 알고리즘대회 에어컨</a></br><a href=https://eternalclash97.tistory.com/93>웹 3.0</a></br>
