@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/98>조이스틱- 그리디 낚시</a></br><a href=https://eternalclash97.tistory.com/97>SQL문제연습</a></br><a href=https://eternalclash97.tistory.com/96>프론트엔드 면접 질문</a></br><a href=https://eternalclash97.tistory.com/95>MySQL(IFNULL,WITH)</a></br><a href=https://eternalclash97.tistory.com/94>2023 현대모비스 알고리즘대회 에어컨</a></br>
+<a href=https://eternalclash97.tistory.com/100>SQL 종합 (GROUP BY,JOIN,STRING)</a></br><a href=https://eternalclash97.tistory.com/98>조이스틱- 그리디 낚시</a></br><a href=https://eternalclash97.tistory.com/97>SQL문제연습</a></br><a href=https://eternalclash97.tistory.com/96>프론트엔드 면접 질문</a></br><a href=https://eternalclash97.tistory.com/95>MySQL(IFNULL,WITH)</a></br>
