@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/103>알고리즘 정리</a></br><a href=https://eternalclash97.tistory.com/102>Javascript - 프로토타입</a></br><a href=https://eternalclash97.tistory.com/101>도메인로직? 서비스로직?</a></br><a href=https://eternalclash97.tistory.com/100>SQL 종합 (GROUP BY,JOIN,STRING)</a></br><a href=https://eternalclash97.tistory.com/98>조이스틱- 그리디 낚시</a></br>
+<a href=https://eternalclash97.tistory.com/105>Jest를 활용한 테스트 코드 작성하기</a></br><a href=https://eternalclash97.tistory.com/104>Frontend - 테스트는 왜 할까?</a></br><a href=https://eternalclash97.tistory.com/103>알고리즘 정리</a></br><a href=https://eternalclash97.tistory.com/102>Javascript - 프로토타입</a></br><a href=https://eternalclash97.tistory.com/101>도메인로직? 서비스로직?</a></br>
