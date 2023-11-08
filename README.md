@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/106>우아한 타입스크립트 2장</a></br><a href=https://eternalclash97.tistory.com/105>Jest를 활용한 테스트 코드 작성하기</a></br><a href=https://eternalclash97.tistory.com/104>Frontend - 테스트는 왜 할까?</a></br><a href=https://eternalclash97.tistory.com/103>알고리즘 정리</a></br><a href=https://eternalclash97.tistory.com/102>Javascript - 프로토타입</a></br>
+<a href=https://eternalclash97.tistory.com/107>우아한 타입스크립트 2-2</a></br><a href=https://eternalclash97.tistory.com/106>우아한 타입스크립트 2장</a></br><a href=https://eternalclash97.tistory.com/105>Jest를 활용한 테스트 코드 작성하기</a></br><a href=https://eternalclash97.tistory.com/104>Frontend - 테스트는 왜 할까?</a></br><a href=https://eternalclash97.tistory.com/103>알고리즘 정리</a></br>
