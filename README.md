@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/112>모던자바스크립트 5장 표현식과 문</a></br><a href=https://eternalclash97.tistory.com/111>모던 자바스크립트 4장 변수</a></br><a href=https://eternalclash97.tistory.com/110>우아한타입스크립트 4장</a></br><a href=https://eternalclash97.tistory.com/109>우아한타입스크립트 3-2 타입조합,제네릭</a></br><a href=https://eternalclash97.tistory.com/108>우아한타입스크립트 3-1 고급타입</a></br>
+<a href=https://eternalclash97.tistory.com/113>모던 자바스크립트 데이터 타입</a></br><a href=https://eternalclash97.tistory.com/112>모던자바스크립트 5장 표현식과 문</a></br><a href=https://eternalclash97.tistory.com/111>모던 자바스크립트 4장 변수</a></br><a href=https://eternalclash97.tistory.com/110>우아한타입스크립트 4장</a></br><a href=https://eternalclash97.tistory.com/109>우아한타입스크립트 3-2 타입조합,제네릭</a></br>
