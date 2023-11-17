@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/114>모던자바스크립트 7장 연산자</a></br><a href=https://eternalclash97.tistory.com/113>모던 자바스크립트 데이터 타입</a></br><a href=https://eternalclash97.tistory.com/112>모던자바스크립트 5장 표현식과 문</a></br><a href=https://eternalclash97.tistory.com/111>모던 자바스크립트 4장 변수</a></br><a href=https://eternalclash97.tistory.com/110>우아한타입스크립트 4장</a></br>
+<a href=https://eternalclash97.tistory.com/118>11장 원시 값과 객체의비교</a></br><a href=https://eternalclash97.tistory.com/117>10장 객체 리터럴</a></br><a href=https://eternalclash97.tistory.com/116>모던자바스크립트 9장 타입변환</a></br><a href=https://eternalclash97.tistory.com/115>모던자바스크립트 제어문</a></br><a href=https://eternalclash97.tistory.com/114>모던자바스크립트 7장 연산자</a></br>
