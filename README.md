@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/122>모던자바스크립트 15장 블록 레벨 스코프</a></br><a href=https://eternalclash97.tistory.com/121>모던자바스크립트 14장 전역변수의 문제점</a></br><a href=https://eternalclash97.tistory.com/120>모던자바스크립트 13장 스코프</a></br><a href=https://eternalclash97.tistory.com/119>모던자바스크립트 12장 함수</a></br><a href=https://eternalclash97.tistory.com/118>11장 원시 값과 객체의비교</a></br>
+<a href=https://eternalclash97.tistory.com/123>우아한타입스크립트 8장 리액트 컴포넌트 타입</a></br><a href=https://eternalclash97.tistory.com/122>모던자바스크립트 15장 블록 레벨 스코프</a></br><a href=https://eternalclash97.tistory.com/121>모던자바스크립트 14장 전역변수의 문제점</a></br><a href=https://eternalclash97.tistory.com/120>모던자바스크립트 13장 스코프</a></br><a href=https://eternalclash97.tistory.com/119>모던자바스크립트 12장 함수</a></br>
