@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/129>1/10 SSAFY</a></br><a href=https://eternalclash97.tistory.com/128>모던 리액트 2장</a></br><a href=https://eternalclash97.tistory.com/127>모던 자바스크립트 23장 실행 컨텍스트</a></br><a href=https://eternalclash97.tistory.com/126>모던자바스크립트 22장 this</a></br><a href=https://eternalclash97.tistory.com/125>모던자바스크립트 19장 프로토타입</a></br>
+<a href=https://eternalclash97.tistory.com/131>자바이펙티브 2. 빌더를 고려하자</a></br><a href=https://eternalclash97.tistory.com/130>자바이펙티브 1. 팩토리 메서드 패턴</a></br><a href=https://eternalclash97.tistory.com/129>1/10 SSAFY</a></br><a href=https://eternalclash97.tistory.com/128>모던 리액트 2장</a></br><a href=https://eternalclash97.tistory.com/127>모던 자바스크립트 23장 실행 컨텍스트</a></br>
