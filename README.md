@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/142>트랜잭션</a></br><a href=https://eternalclash97.tistory.com/141>시험</a></br><a href=https://eternalclash97.tistory.com/140>프로그래머스 LV3 사라지는 발판</a></br><a href=https://eternalclash97.tistory.com/139>프로그래머스 LV3 부대복귀</a></br><a href=https://eternalclash97.tistory.com/138>프로그래머스 Lv3 숫자타자대회</a></br>
+<a href=https://eternalclash97.tistory.com/143>SQL 처리과정과 I/O</a></br><a href=https://eternalclash97.tistory.com/142>트랜잭션</a></br><a href=https://eternalclash97.tistory.com/141>시험</a></br><a href=https://eternalclash97.tistory.com/140>프로그래머스 LV3 사라지는 발판</a></br><a href=https://eternalclash97.tistory.com/139>프로그래머스 LV3 부대복귀</a></br>
