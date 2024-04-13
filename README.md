@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=http://eternalclash97.tistory.com/162>AI인터뷰생성기 기록 - 0411</a></br><a href=http://eternalclash97.tistory.com/160>타입스크립트 정리 1. 자바스크립트의 역사와 한계</a></br><a href=http://eternalclash97.tistory.com/159>Next js 정리 2.  라우팅 시스템과 내장 컴포넌트</a></br><a href=http://eternalclash97.tistory.com/158>Next Js 정리 1. 렌더링 전략</a></br><a href=http://eternalclash97.tistory.com/157>Leetcode 1964. Find the Longest Valid Obstacle Course at Each Position</a></br>
+<a href=https://eternalclash97.tistory.com/162>AI인터뷰생성기 기록 - 0411</a></br><a href=https://eternalclash97.tistory.com/160>타입스크립트 정리 1. 자바스크립트의 역사와 한계</a></br><a href=https://eternalclash97.tistory.com/159>Next js 정리 2.  라우팅 시스템과 내장 컴포넌트</a></br><a href=https://eternalclash97.tistory.com/158>Next Js 정리 1. 렌더링 전략</a></br><a href=https://eternalclash97.tistory.com/157>Leetcode 1964. Find the Longest Valid Obstacle Course at Each Position</a></br>
