@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=http://eternalclash97.tistory.com/167>인터넷 정리</a></br><a href=http://eternalclash97.tistory.com/166>네트워크 정리</a></br><a href=http://eternalclash97.tistory.com/165>소프트웨어 공학 정리</a></br><a href=http://eternalclash97.tistory.com/164>운영체제 문제풀이</a></br><a href=http://eternalclash97.tistory.com/163>운영체제 정리1</a></br>
+<a href=https://eternalclash97.tistory.com/168>자료구조 정리</a></br><a href=https://eternalclash97.tistory.com/167>인터넷 정리</a></br><a href=https://eternalclash97.tistory.com/166>네트워크 정리</a></br><a href=https://eternalclash97.tistory.com/165>소프트웨어 공학 정리</a></br><a href=https://eternalclash97.tistory.com/164>운영체제 문제풀이</a></br>
