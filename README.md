@@ -26,4 +26,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://eternalclash97.tistory.com/172>자료구조론</a></br><a href=https://eternalclash97.tistory.com/171>데이터베이스론</a></br><a href=https://eternalclash97.tistory.com/170>6. 소프트웨어공학</a></br><a href=https://eternalclash97.tistory.com/169>7. 프로그래밍 언어론</a></br><a href=https://eternalclash97.tistory.com/168>자료구조 정리</a></br>
+<a href=https://eternalclash97.tistory.com/173>데이터통신론</a></br><a href=https://eternalclash97.tistory.com/172>자료구조론</a></br><a href=https://eternalclash97.tistory.com/171>데이터베이스론</a></br><a href=https://eternalclash97.tistory.com/170>6. 소프트웨어공학</a></br><a href=https://eternalclash97.tistory.com/169>7. 프로그래밍 언어론</a></br>
